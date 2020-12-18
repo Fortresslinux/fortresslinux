@@ -9,4 +9,4 @@ And we will continue to provide you with new services & products to keep your da
 
 Our new website can be found at:
 
-![Image](fwd.png)
+![Image](/fwd.jpg)
